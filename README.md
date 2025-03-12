@@ -7,4 +7,5 @@ I have a strong passion for programming, particularly in developing custom AI mo
 I am currently looking for opportunities that combine mathematics and programming, preferably in areas that benefit society, such as computer vision in healthcare, robotics applications, or quantitative finance.
 
 Enjoy exploring my GitHub!
+
 Neil
