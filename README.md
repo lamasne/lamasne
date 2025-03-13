@@ -1,7 +1,5 @@
 ## Hi, I'm Neil 👋
 
-**Physics PhD | Software Engineer**
-
 ### 🎓 **Academic & 💼 Professional Background**  
 My background spans:
 - **PhD in Physics (Superconductors)** @ ICMAB-CSIC, collaborating with **CERN**, **Max Planck Institute**, and **Stanford Linear Accelerator**.
