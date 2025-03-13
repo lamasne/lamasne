@@ -1,7 +1,7 @@
 ## Hi, I'm Neil 👋
 
 ### 🎓 **Academic & 💼 Professional Background**  
-My background spans:
+My background combines specialized research/education in Physics and Engineering, with professional expertise in Software Development:
 - **PhD in Physics (Superconductors)** @ ICMAB-CSIC, collaborating with **CERN**, **Max Planck Institute**, and **Stanford Linear Accelerator**.
 - **Full-stack web development** @ Sopra Steria.
 - **Nuclear fusion engineering** @ École Polytechnique de Bruxelles & Ghent University.
