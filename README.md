@@ -1,11 +1,19 @@
-Hi,
+## Hi, I'm Neil 👋
 
-I'm Neil, an engineer by training (specialized in nuclear fusion). I worked for a year as a software engineer and recently completed a PhD in Physics (superconductors) at ICMAB-CSIC, Barcelona, collaborating with CERN, the Max Planck Institute, and the Stanford Linear Accelerator.
+**Physics PhD | Software Engineer**
 
-I have a strong passion for programming, particularly in developing custom AI models for scientific discovery and computer vision. My larger projects remain private to protect their potential business value.
+### 🎓 **Academic & 💼 Professional Background**  
+My background spans:
+- **PhD in Physics (Superconductors)** @ ICMAB-CSIC, collaborating with **CERN**, **Max Planck Institute**, and **Stanford Linear Accelerator**.
+- **Full-stack web development** @ Sopra Steria.
+- **Nuclear fusion engineering** @ École Polytechnique de Bruxelles & Ghent University.
 
-I am currently looking for opportunities that combine mathematics and programming, preferably in areas that benefit society, such as computer vision in healthcare, robotics applications, or quantitative finance.
+### 💻 **Interests & Work**  
+I specialize in **data analysis (AI & rule-based)** and **advanced modeling**. 
+- Building **computer vision models** for **scientific discovery**  
+- Developing **new algorithms & models** in **quantitative finance**  
+- Exploring **AI applications in healthcare and robotics**  
 
-Enjoy exploring my GitHub!
+💡 Some of my larger projects remain private due to business potential, but you can find select work on my GitHub.
 
-Neil
+📫 **Let’s Connect!** Feel free to explore my repositories and reach out at [neillamas@gmail.com](mailto:neillamas@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/neil-lamas-407379192).
